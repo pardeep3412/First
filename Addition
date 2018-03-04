@@ -2,9 +2,9 @@
 
 int main()
 {
-  int a, b, c;
-  printf("Type two number: ");
-  scanf("%d%d", &a, &b);
+  int a, b, c; //Defining the variable
+  printf("Type two number: "); //Printf function.
+  scanf("%d%d", &a, &b); //Takes input from the user.
   c = a + b;
   printf("Sum of %d and %d is %d", a, b, c);
 }

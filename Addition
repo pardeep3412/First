@@ -7,4 +7,5 @@ int main()
   scanf("%d%d", &a, &b); //Takes input from the user.
   c = a + b;
   printf("Sum of %d and %d is %d", a, b, c); //print function
+  //result is shwoing on the nineth line
 }
